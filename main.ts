@@ -1,5 +1,5 @@
 basic.showString("Hi!")
-basic.showString("I'm Mr Garth")
+basic.showString("I'm Mr G")
 basic.showString("I")
 basic.clearScreen()
 basic.showIcon(IconNames.Heart)
