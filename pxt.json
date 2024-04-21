@@ -1,5 +1,5 @@
 {
-    "name": "NameTag-Sequence",
+    "name": "microbit-nametag-basic",
     "description": "",
     "dependencies": {
         "core": "*",
